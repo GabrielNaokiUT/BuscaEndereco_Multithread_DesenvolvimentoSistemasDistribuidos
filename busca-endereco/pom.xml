@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.busca.App</mainClass>
+                            <mainClass>com.busca.BuscaCEP</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
